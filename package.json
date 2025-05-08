@@ -10,9 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^16.5.0",
+=======
+    "katex": "^0.16.22",
+>>>>>>> d47253c7748a3d2b495bdfe90fbd156bb4d1d270
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-latex-next": "^3.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
